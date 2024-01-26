@@ -1,0 +1,42 @@
+body {
+    background-color: rgba(40, 21, 58, 0.288);
+    font: normal 15pt comic serif;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 16px;
+    font: sans-serif;
+}
+
+h1{
+    background-color: white;
+    width: 350px;
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+    padding: 16px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.555);
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 16px;
+    width: 350px;
+    margin: auto;
+    height: fit-content;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.555);
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+}
+
+img {
+    width: auto;
+    height: auto;
+    margin: auto;
+    display: block;
+  }
